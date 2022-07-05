@@ -27,9 +27,12 @@ padding: 4%;}
 }
 .intro{display: flex;
 background-color: #2549d3;
-text-align: center;
 justify-content: space-between;
 align-items: center;
 }
+.two{float: left;}
+.three{float: right;}
+.four{float: right;}
+
 
 
