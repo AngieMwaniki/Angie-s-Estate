@@ -1,0 +1,35 @@
+.ang {display:flex;
+    justify-content:space-between;
+    outline-width: 2px;}
+
+*span{color: #2549d3;
+
+font-style: oblique;}
+
+.hero{display: flex;}
+
+.list{align-items: flex-end;}
+
+.ul{display: flex;
+margin:0;
+justify-content:space-around;
+align-items: center;
+padding: 4%;}
+
+.products{color: #2549d3;
+;left: 0ch;}
+
+.select{text-align: center;}
+
+.box{display: flex;}
+
+.sol{text-align: center; align-items: center;
+}
+.intro{display: flex;
+background-color: #2549d3;
+text-align: center;
+justify-content: space-between;
+align-items: center;
+}
+
+
