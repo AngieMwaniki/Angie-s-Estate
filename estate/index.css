@@ -35,5 +35,13 @@ align-items: center;
 .three{text-align: left;}
 
 .girl{display: flex;
-align-content: space-between;}
+align-content: space-between;
+justify-content: center;
+margin: 2px;
+justify-items: auto;
+}
+.six
 
+.man{display: flex;
+background-color: #2549d3;}
+.run
