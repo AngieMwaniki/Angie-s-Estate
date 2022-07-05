@@ -40,8 +40,9 @@ justify-content: center;
 margin: 2px;
 justify-items: auto;
 }
-.six
 
 .man{display: flex;
 background-color: #2549d3;}
-.run
+.run{text-align: center;
+color: #2549d3;}
+
