@@ -31,6 +31,9 @@ justify-content: space-between;
 align-items: center;
 }
 .stat{display: flex;}
+.four{text-align: left;}
+.three{text-align: left;}
 
-.girl{}
+.girl{display: flex;
+align-content: space-between;}
 
