@@ -1,48 +1,22 @@
+.ang {display:flex;
+    justify-content:space-between;
+    outline-width: 2px;
 
-/*--------NavigationBar------*/
-#nav-bar{
-    position: sticky;
-    top: 0;
-    z-index: 10;
 }
-.navbar-brand{
-    height: 40px;
-    padding-left: 30px;
-}
-.navbar-nav li{
-padding:0 10px;
-}
-.nav-bar li a{
-float: right;
-text-align: left;
-}
-.nav-bar  ul li a:hover{
-    color: #0f298b!important;
-}
-.navbar{
-    background: #fafafa;
-}
-.navbar-toggler{
-    border: none!important;
-}
-.nav-link{
-    color: #0f298b;
-    font-weight: 600;
-    font-size: 16px;
-}
+span*{color: #2549d3;
 
-@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@400;500&display=swap');
-span{ color: #2549d3;
-    font-size: larger;}
-    h1 *{text-align: left;
-    color:blue;}
-select{text-align: center ;
+font-style: oblique;}
+.hero{display: flex;
 }
-intro{box-sizing: border-box;
-border: 5px#2549d3;
-background-color: #2549d3;
-float: right;}
-style{text-align: center;}
+.list{align-items: flex-end;}
+.ul{display: flex;
+margin:0;
+justify-content:space-around
+align-items: center;
+padding: 4%;}
+.products{color: #2549d3;
+;left: 0ch;}
+.select{text-align: center;}
 
 
 
