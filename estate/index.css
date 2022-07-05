@@ -30,9 +30,7 @@ background-color: #2549d3;
 justify-content: space-between;
 align-items: center;
 }
-.two{float: left;}
-.three{float: right;}
-.four{float: right;}
+.stat{display: flex;}
 
-
+.girl{}
 
