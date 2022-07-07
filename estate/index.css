@@ -46,5 +46,7 @@ background-color: #2549d3;}
 .run{text-align: center;
 color: #2549d3;}
 
-.token{display: flex;}
+.toke{display: flex;
+justify-content: space-between;
+align-items: center;}
 
