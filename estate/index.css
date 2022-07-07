@@ -1,12 +1,16 @@
-.ang {display:flex;
+.ang{display:flex;
     justify-content:space-between;
-    outline-width: 2px;}
+    outline-width: 2px;
+}
 
 *span{color: #2549d3;
 
 font-style: oblique;}
 
-.hero{display: flex;}
+.hero{display: flex;
+justify-content: space-between;
+align-items: center;
+justify-items: center;}
 
 .list{align-items: flex-end;}
 
