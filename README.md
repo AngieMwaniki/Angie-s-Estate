@@ -1,1 +1,4 @@
-AngieMwaniki
+Description this website helps real estate customers get their sutable . it is a website that has come to simplify the customers work. they no longer have to go the market or do extensive research but rather they can get quality,afforadable and suitable homes. 
+Usage and installation This website does not require any installations, we just go to a any browser and search for Angie's Estate and enjoy viewing,renting and buying both residential and commercial real estate at the comfort of your home or office. 
+Author Name Angela Muthoni Mwaniki Contact in case you encounter any problems while using this website you can contact us through: Email:angela.mwaniki@student.moringaschool.com Phone number:0712345678 
+Copyright 2022 program corporation, All rights reserved. The program is a subjest to licence agreement,copyright, trademark,patent and other laws
